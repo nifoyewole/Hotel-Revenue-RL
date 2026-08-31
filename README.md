@@ -117,3 +117,7 @@ The tests validate the assumptions behind the results:
 - Scope limitations: The model does not include multiple room types, length-of-stay decisions, or overbooking.
 
 Despite these limitations, the strategy ranking remains stable across elasticity tests and all hotel-month scenarios.
+
+## AI Use Declaration
+
+Generative AI tools, primarily Claude (Anthropic), were used substantially during the development of this project, particularly for code generation, debugging, refactoring, and explaining implementation approaches. I take responsibility for the final code, analysis, and conclusions presented in this repository.
